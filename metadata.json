@@ -1,0 +1,19 @@
+{
+  "name": "dogepilot",
+  "symbol": "DPILOT",
+  "description": "Token with Dogpilot logo.",
+  "image": "https://raw.githubusercontent.com/Jowooseok/sol-test/main/logo.png",
+  "attributes": [
+    { "trait_type": "Role", "value": "Pilot" }
+  ],
+  "seller_fee_basis_points": 0,
+  "collection": null,
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Jowooseok/sol-test/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
